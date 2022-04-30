@@ -1,0 +1,10 @@
+C:\Users\Сергей\source\repos\exam\exam\bin\Debug\exam.exe.config
+C:\Users\Сергей\source\repos\exam\exam\bin\Debug\exam.exe
+C:\Users\Сергей\source\repos\exam\exam\bin\Debug\exam.pdb
+C:\Users\Сергей\source\repos\exam\exam\obj\Debug\exam.csprojAssemblyReference.cache
+C:\Users\Сергей\source\repos\exam\exam\obj\Debug\exam.Form1.resources
+C:\Users\Сергей\source\repos\exam\exam\obj\Debug\exam.Properties.Resources.resources
+C:\Users\Сергей\source\repos\exam\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\exam\exam\obj\Debug\exam.exe
+C:\Users\Сергей\source\repos\exam\exam\obj\Debug\exam.pdb
